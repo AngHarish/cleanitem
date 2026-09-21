@@ -1,7 +1,7 @@
 # Clean Item Mod (Fabric)
 A minimalist Minecraft server/client utility mod
 
-# ntroduction
+# Introduction
 Clean Item does only three things: clear dropped items, switch to daytime, and switch to clear weather. No extra features, no config files—works out of the box.
 
 # Features & Keys
