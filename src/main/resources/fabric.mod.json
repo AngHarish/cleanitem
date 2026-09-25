@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "cleanitem",
+  "version": "${version}",
+  "name": "Clean Item",
+  "description": "这是一个简单实用的模组。添加了一些实用功能。",
+  "authors": [
+    "AngHarish"
+  ],
+  "contact": {
+    "homepage": "https://www.mctangshan.com/cleanitem",
+    "sources": "https://github.com/AngHarish/cleanitem",
+    "issues": "https://www.mctangshan.com/cleanitem/issues"
+  },
+  "license": "MIT",
+  "icon": "assets/cleanitem/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.cleanitem.CleanitemMod"
+    ],
+    "client": [
+      "com.cleanitem.client.CleanitemClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.21",
+    "minecraft": "~1.20.1",
+    "java": ">=17",
+    "fabric-api": "*"
+  }
+}

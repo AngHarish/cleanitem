@@ -1,0 +1,8 @@
+{
+  "key.cleanitem.clear_items": "清除掉落物",
+  "key.cleanitem.time_day": "設定白天",
+  "key.cleanitem.weather_clear": "清除天氣",
+  "category.cleanitem.keys": "清除物品",
+  "modmenu.nameTranslation.cleanitem": "一鍵清理掉落物",
+  "modmenu.descriptionTranslation.cleanitem": "這是一個簡單實用的模組。按下 Delete 鍵即可快速清除世界中的掉落物。"
+}
